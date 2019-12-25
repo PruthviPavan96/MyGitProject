@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19116" started-at="2019-12-25T16:42:31 IST" finished-at="2019-12-25T16:42:50 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19116" started-at="2019-12-25T16:42:31 IST" finished-at="2019-12-25T16:42:50 IST">
+      <class name="com.assignment1.action.VerifyPriceCard">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.assignment1.action.VerifyPriceCard@7fac631b]" name="openBrowser" is-config="true" duration-ms="7319" started-at="2019-12-25T16:42:31 IST" finished-at="2019-12-25T16:42:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="Verify1()[pri:1, instance:com.assignment1.action.VerifyPriceCard@7fac631b]" name="Verify1" duration-ms="6709" started-at="2019-12-25T16:42:38 IST" finished-at="2019-12-25T16:42:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify1 -->
+        <test-method status="PASS" signature="verify2()[pri:2, instance:com.assignment1.action.VerifyPriceCard@7fac631b]" name="verify2" duration-ms="5047" started-at="2019-12-25T16:42:45 IST" finished-at="2019-12-25T16:42:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify2 -->
+      </class> <!-- com.assignment1.action.VerifyPriceCard -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
