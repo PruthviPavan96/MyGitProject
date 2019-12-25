@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43879" started-at="2019-12-25T20:43:42 IST" finished-at="2019-12-25T20:44:25 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43879" started-at="2019-12-25T20:43:42 IST" finished-at="2019-12-25T20:44:25 IST">
+      <class name="com.assignment2a.action.verifyAction">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.assignment2a.action.verifyAction@7fac631b]" name="openBrowser" is-config="true" duration-ms="22501" started-at="2019-12-25T20:43:42 IST" finished-at="2019-12-25T20:44:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyActionTest()[pri:0, instance:com.assignment2a.action.verifyAction@7fac631b]" name="verifyActionTest" duration-ms="21349" started-at="2019-12-25T20:44:04 IST" finished-at="2019-12-25T20:44:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyActionTest -->
+      </class> <!-- com.assignment2a.action.verifyAction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

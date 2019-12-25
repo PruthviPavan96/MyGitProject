@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="39371" started-at="2019-12-25T14:37:00 IST" finished-at="2019-12-25T14:37:39 IST">
+  <suite name="Default suite" duration-ms="41429" started-at="2019-12-25T20:40:59 IST" finished-at="2019-12-25T20:41:40 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="39371" started-at="2019-12-25T14:37:00 IST" finished-at="2019-12-25T14:37:39 IST">
+    <test name="Default test" duration-ms="41429" started-at="2019-12-25T20:40:59 IST" finished-at="2019-12-25T20:41:40 IST">
       <class name="com.assignment2.action.verifyAction">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.assignment2.action.verifyAction@7fac631b]" name="openBrowser" is-config="true" duration-ms="19285" started-at="2019-12-25T14:37:00 IST" finished-at="2019-12-25T14:37:19 IST">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.assignment2.action.verifyAction@7fac631b]" name="openBrowser" is-config="true" duration-ms="21288" started-at="2019-12-25T20:40:59 IST" finished-at="2019-12-25T20:41:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="FAIL" signature="verifyActionTest()[pri:0, instance:com.assignment2.action.verifyAction@7fac631b]" name="verifyActionTest" duration-ms="20071" started-at="2019-12-25T14:37:19 IST" finished-at="2019-12-25T14:37:39 IST">
+        <test-method status="FAIL" signature="verifyActionTest()[pri:0, instance:com.assignment2.action.verifyAction@7fac631b]" name="verifyActionTest" duration-ms="20108" started-at="2019-12-25T20:41:20 IST" finished-at="2019-12-25T20:41:40 IST">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[Unable to locate element: //span[.='Search']
@@ -19,8 +19,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
 System info: host: 'DESKTOP-46I4ES6', ip: '192.168.192.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 71.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20191202093317, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 19040, moz:profile: C:\Users\User-PC\AppData\Lo..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 6ca85554-9b8c-4de0-999f-f6a4bc1dd1f1
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 71.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20191202093317, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 19504, moz:profile: C:\Users\User-PC\AppData\Lo..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 88512af0-977c-4abb-81ce-b8ff68bd60a1
 *** Element info: {Using=xpath, value=//span[.='Search']}]]>
             </message>
             <full-stacktrace>
@@ -29,8 +29,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
 System info: host: 'DESKTOP-46I4ES6', ip: '192.168.192.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 71.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20191202093317, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 19040, moz:profile: C:\Users\User-PC\AppData\Lo..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 6ca85554-9b8c-4de0-999f-f6a4bc1dd1f1
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 71.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20191202093317, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 19504, moz:profile: C:\Users\User-PC\AppData\Lo..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 88512af0-977c-4abb-81ce-b8ff68bd60a1
 *** Element info: {Using=xpath, value=//span[.='Search']}
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
